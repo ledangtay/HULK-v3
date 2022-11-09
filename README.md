@@ -1,7 +1,7 @@
 <!--
-    Title: Hulk v3
+    Title: Hulk v3 by Đăng Tây
     Description: Asynchronous HTTP Botnet for Distributed Denial of Service (DDoS)
-    Author: Hyperclaw79
+    Author: ledangtay123
     Url: https://github.com/Hyperclaw79/HULK-v3
     Image: https://raw.githubusercontent.com/Hyperclaw79/Hulk-v3/async/assets/Hulk.png
 -->
